@@ -1,4 +1,6 @@
 Loopwear is a full-stack web application designed to bring reliability, sanitation standards, and intelligent curation to Pakistan's second-hand clothing ecosystem.
+
+
 --Disclaimer-- 
 This is a demo website with limited functionality, only made to provide a concept of how LoopWear would work.
 Built with **React 19, TypeScript, Express, Tailwind CSS, and Google Gemini AI**, Loopwear features a three-tier role system for **Customers, Sellers, and Admins**, automated courier tracking integration, and an AI-powered personal stylist.
