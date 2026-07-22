@@ -1,0 +1,6 @@
+{
+  "name": "Loopwear",
+  "description": "A modern digital thrift marketplace platform in Pakistan for pre-loved clothing, shoes, and accessories. Experience authentic sustainable fashion with role-based logins for Customers, Sellers, and Admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
